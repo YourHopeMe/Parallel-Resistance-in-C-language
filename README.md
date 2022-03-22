@@ -1,0 +1,1 @@
+# Parallel-Resistance-in-C-language
